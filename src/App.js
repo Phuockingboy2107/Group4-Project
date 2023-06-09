@@ -15,7 +15,8 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Group 4 - Movie Project PHUOC
+          Group 4 - Movie Project Main
+          _jad_asdaw_asdsad
         </a>
       </header>
     </div>
