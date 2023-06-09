@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Group 4 - Movie Project
+          Group 4 - Movie Project Main
         </a>
       </header>
     </div>
